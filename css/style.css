@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navigation{
+    width: 100%;
+    height: 40px;
+    background-color: #ededec;
+ 
+}
+.navigation span:nth-child(2){
+    color: rgb(63, 179, 218);
+    font-weight: bold;
+    line-height: 40px;
+}
+img{
+    width: 70px;
+    float: left;
+}
+form{
+    text-align: center;
+    margin-top: 20px;
+}
+.btn{
+    background-color: #3d7fb2;
+    border-radius: 20px;
+    padding: 10px;
+    border: 0px;
+    color:white;
+}
