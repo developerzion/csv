@@ -20,8 +20,6 @@
     //DEVELOPEMENT
     $conn = mysqli_connect("localhost","root", "","workspace");
 
-    //PRODUCTION
-    $conn = mysqli_connect("localhost","root", "","workspace");
 
 
     function message($msg, $status){
